@@ -1,0 +1,44 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "value": {
+        "name": {
+          "defaultValue": "in_StrCredentialsNameOrc",
+          "isExpression": true
+        },
+        "folderPath": {
+          "isExpression": true
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "resource": "asset",
+      "value": {
+        "name": {
+          "defaultValue": "row(\"Asset\").ToString",
+          "isExpression": false
+        },
+        "folderPath": {
+          "isExpression": true
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "resource": "queue",
+      "value": {
+        "name": {
+          "defaultValue": "ClaimsAttachments",
+          "isExpression": false
+        },
+        "folderPath": {
+          "isExpression": true
+        }
+      },
+      "metadata": {}
+    }
+  ]
+}
