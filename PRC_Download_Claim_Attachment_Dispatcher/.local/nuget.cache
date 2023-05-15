@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j9kP94fgT3I7BfThc6XwtnA+Do4YehZahxehxvwVkvsVj2ltd9xxLWY6eZW4hmck7HazDCOiLuiEbY6dLL3EqA==",
+  "dgSpecHash": "XL6puZRFn2v7pRNGsHYLANHOXUrSXDXuUisH/UVvYXI8zRHjBxKt+TjeghUPoemqY2aXkTBxC9CNUerwPwFHYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\Tquila clients\\PRemier Foods\\Claim Attachments\\PRC_Download_Claim_Attachments_Dispatcher.1.0.4\\lib\\net45\\.local\\",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\Tquila clients\\PRemier Foods\\Claim Attachments\\Claim Attachments Github\\ClaimsAttachments\\PRC_Download_Claim_Attachment_Dispatcher\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

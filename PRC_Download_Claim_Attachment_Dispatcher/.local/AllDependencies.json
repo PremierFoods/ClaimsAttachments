@@ -6898,9 +6898,9 @@
     "restore": {
       "projectUniqueName": "PRC_Download_Claim_Attachments_Dispatcher",
       "projectName": "PRC_Download_Claim_Attachments_Dispatcher",
-      "projectPath": "C:\\Users\\Dell\\Documents\\Tquila clients\\PRemier Foods\\Claim Attachments\\PRC_Download_Claim_Attachments_Dispatcher.1.0.4\\lib\\net45\\.local",
+      "projectPath": "C:\\Users\\Dell\\Documents\\Tquila clients\\PRemier Foods\\Claim Attachments\\Claim Attachments Github\\ClaimsAttachments\\PRC_Download_Claim_Attachment_Dispatcher\\.local",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\Tquila clients\\PRemier Foods\\Claim Attachments\\PRC_Download_Claim_Attachments_Dispatcher.1.0.4\\lib\\net45\\.local",
+      "outputPath": "C:\\Users\\Dell\\Documents\\Tquila clients\\PRemier Foods\\Claim Attachments\\Claim Attachments Github\\ClaimsAttachments\\PRC_Download_Claim_Attachment_Dispatcher\\.local",
       "fallbackFolders": [
         "C:\\Users\\Dell\\AppData\\Local\\UiPath\\NugetFallbackFolder"
       ]
